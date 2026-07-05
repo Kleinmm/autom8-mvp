@@ -1,0 +1,14 @@
+{
+  "name": "autom8-mvp",
+  "version": "0.1.0",
+  "type": "module",
+  "description": "Autom8 MVP - Telegram bot skeleton (Phase 0-2)",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "pg": "^8.12.0"
+  }
+}
